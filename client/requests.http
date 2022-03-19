@@ -1,0 +1,49 @@
+POST http://localhost:9999/api/v1/gettitles
+Content-Type: application/json
+
+{
+  "list":
+  [
+    "http://www.juniper.com",
+    "http://www.cnn.com",
+    "http://www.bbc.com",
+    "http://www.cisco.com",
+    "http://www.fcpro.ru",
+   " http://www.fipi.ru",
+    "http://www.lexed.ru",
+    "http://www.edu.ru",
+    "http://www.ecsocman.edu.ru",
+    "http://www.minomos.ru",
+    "http://www.edunso.ru",
+    "http://www.avorontcov.ru",
+    "http://bogoslovie.pro/",
+    "http://www.websib.ru",
+    "http://www.omsk.edu.ru",
+    "http://webinar.pgsga.ru",
+    "http://abc.edu-net.khb.ru",
+    "http://iso.karelia.ru",
+    "http://imc.ocpi.ru",
+    "http://vio.fio.ru",
+    "http://news.abiturcenter.ru",
+    "http://kvant.mccme.ru",
+    "http://www.akademkniga.ru",
+    "http://www.lbz.ru",
+    "http://www.vgf.ru",
+    "http://www.verbum-m.ru",
+    "http://www.vlados.ru",
+    "http://www.mnemozina.ru",
+    "http://www.msbook.ru",
+    "http://www.infojournal.ru",
+    "http://www.prosv.ru",
+    "http://www.titul.ru",
+    "http://www.edu-expo.ru",
+    "http://www.ito.su",
+    "http://www.mce.biophys.msu.ru",
+    "http://www.edu-it.ru",
+    "http://www.znanie.info",
+    "http://www.it-education.ru",
+    "http://bestschool.org.ru",
+    "http://konkurs.lgo.ru",
+    "http://teacher.org.ru"
+  ]
+}
